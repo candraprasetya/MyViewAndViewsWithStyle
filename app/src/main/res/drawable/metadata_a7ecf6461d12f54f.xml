@@ -1,0 +1,576 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about='G:/Pictures/camera roll/IMG_20180314_100253.jpg'
+  xmlns:et='http://ns.exiftool.ca/1.0/' et:toolkit='Image::ExifTool 10.93'
+  xmlns:ExifTool='http://ns.exiftool.ca/ExifTool/1.0/'
+  xmlns:System='http://ns.exiftool.ca/File/System/1.0/'
+  xmlns:File='http://ns.exiftool.ca/File/1.0/'
+  xmlns:IFD0='http://ns.exiftool.ca/EXIF/IFD0/1.0/'
+  xmlns:ExifIFD='http://ns.exiftool.ca/EXIF/ExifIFD/1.0/'
+  xmlns:InteropIFD='http://ns.exiftool.ca/EXIF/InteropIFD/1.0/'
+  xmlns:GPS='http://ns.exiftool.ca/EXIF/GPS/1.0/'
+  xmlns:IFD1='http://ns.exiftool.ca/EXIF/IFD1/1.0/'
+  xmlns:Composite='http://ns.exiftool.ca/Composite/1.0/'>
+ 
+ <System:FileName>
+  <rdf:Description et:id='FileName' et:table='Extra'>
+   <et:desc>File Name</et:desc>
+   <et:prt>IMG_20180314_100253.jpg</et:prt>
+  </rdf:Description>
+ </System:FileName>
+ <System:Directory>
+  <rdf:Description et:id='Directory' et:table='Extra'>
+   <et:desc>Directory</et:desc>
+   <et:prt>G:/Pictures/camera roll</et:prt>
+  </rdf:Description>
+ </System:Directory>
+ <System:FileSize>
+  <rdf:Description et:id='FileSize' et:table='Extra'>
+   <et:desc>File Size</et:desc>
+   <et:prt>2.6 MB</et:prt>
+   <et:val>2719994</et:val>
+  </rdf:Description>
+ </System:FileSize>
+ <System:FileModifyDate>
+  <rdf:Description et:id='FileModifyDate' et:table='Extra'>
+   <et:desc>File Modification Date/Time</et:desc>
+   <et:prt>2018:03:14 10:02:53+07:00</et:prt>
+  </rdf:Description>
+ </System:FileModifyDate>
+ <System:FileAccessDate>
+  <rdf:Description et:id='FileAccessDate' et:table='Extra'>
+   <et:desc>File Access Date/Time</et:desc>
+   <et:prt>2018:03:31 18:47:48+07:00</et:prt>
+  </rdf:Description>
+ </System:FileAccessDate>
+ <System:FileCreateDate>
+  <rdf:Description et:id='FileCreateDate' et:table='Extra'>
+   <et:desc>File Creation Date/Time</et:desc>
+   <et:prt>2018:03:17 19:31:55+07:00</et:prt>
+  </rdf:Description>
+ </System:FileCreateDate>
+ <System:FilePermissions>
+  <rdf:Description et:id='FilePermissions' et:table='Extra'>
+   <et:desc>File Permissions</et:desc>
+   <et:prt>rw-rw-rw-</et:prt>
+   <et:val>666</et:val>
+  </rdf:Description>
+ </System:FilePermissions>
+ <File:FileType>
+  <rdf:Description et:id='FileType' et:table='Extra'>
+   <et:desc>File Type</et:desc>
+   <et:prt>JPEG</et:prt>
+  </rdf:Description>
+ </File:FileType>
+ <File:FileTypeExtension>
+  <rdf:Description et:id='FileTypeExtension' et:table='Extra'>
+   <et:desc>File Type Extension</et:desc>
+   <et:prt>jpg</et:prt>
+   <et:val>JPG</et:val>
+  </rdf:Description>
+ </File:FileTypeExtension>
+ <File:MIMEType>
+  <rdf:Description et:id='MIMEType' et:table='Extra'>
+   <et:desc>MIME Type</et:desc>
+   <et:prt>image/jpeg</et:prt>
+  </rdf:Description>
+ </File:MIMEType>
+ <File:ExifByteOrder>
+  <rdf:Description et:id='ExifByteOrder' et:table='Extra'>
+   <et:desc>Exif Byte Order</et:desc>
+   <et:prt>Big-endian (Motorola, MM)</et:prt>
+   <et:val>MM</et:val>
+  </rdf:Description>
+ </File:ExifByteOrder>
+ <File:ImageWidth>
+  <rdf:Description et:id='ImageWidth' et:table='JPEG::SOF'>
+   <et:desc>Image Width</et:desc>
+   <et:prt>2160</et:prt>
+  </rdf:Description>
+ </File:ImageWidth>
+ <File:ImageHeight>
+  <rdf:Description et:id='ImageHeight' et:table='JPEG::SOF'>
+   <et:desc>Image Height</et:desc>
+   <et:prt>3840</et:prt>
+  </rdf:Description>
+ </File:ImageHeight>
+ <File:EncodingProcess>
+  <rdf:Description et:id='EncodingProcess' et:table='JPEG::SOF'>
+   <et:desc>Encoding Process</et:desc>
+   <et:prt>Baseline DCT, Huffman coding</et:prt>
+   <et:val>0</et:val>
+  </rdf:Description>
+ </File:EncodingProcess>
+ <File:BitsPerSample>
+  <rdf:Description et:id='BitsPerSample' et:table='JPEG::SOF'>
+   <et:desc>Bits Per Sample</et:desc>
+   <et:prt>8</et:prt>
+  </rdf:Description>
+ </File:BitsPerSample>
+ <File:ColorComponents>
+  <rdf:Description et:id='ColorComponents' et:table='JPEG::SOF'>
+   <et:desc>Color Components</et:desc>
+   <et:prt>3</et:prt>
+  </rdf:Description>
+ </File:ColorComponents>
+ <File:YCbCrSubSampling>
+  <rdf:Description et:id='YCbCrSubSampling' et:table='JPEG::SOF'>
+   <et:desc>Y Cb Cr Sub Sampling</et:desc>
+   <et:prt>YCbCr4:2:0 (2 2)</et:prt>
+   <et:val>2 2</et:val>
+  </rdf:Description>
+ </File:YCbCrSubSampling>
+ <File:JPEGQualityEstimate>
+  <rdf:Description et:id='JPEGQualityEstimate' et:table='Extra'>
+   <et:desc>JPEG Quality Estimate</et:desc>
+   <et:prt>98</et:prt>
+  </rdf:Description>
+ </File:JPEGQualityEstimate>
+ <File:JPEGDigest>
+  <rdf:Description et:id='JPEGDigest' et:table='Extra'>
+   <et:desc>JPEG Digest</et:desc>
+   <et:prt>Unknown (f3235a7d187d083b7b7ead949653f730:221111)</et:prt>
+   <et:val>f3235a7d187d083b7b7ead949653f730:221111</et:val>
+  </rdf:Description>
+ </File:JPEGDigest>
+ <IFD0:Make>
+  <rdf:Description et:id='271' et:table='Exif::Main'>
+   <et:desc>Make</et:desc>
+   <et:prt>Xiaomi</et:prt>
+  </rdf:Description>
+ </IFD0:Make>
+ <IFD0:Model>
+  <rdf:Description et:id='272' et:table='Exif::Main'>
+   <et:desc>Camera Model Name</et:desc>
+   <et:prt>markw</et:prt>
+  </rdf:Description>
+ </IFD0:Model>
+ <IFD0:XResolution>
+  <rdf:Description et:id='282' et:table='Exif::Main'>
+   <et:desc>X Resolution</et:desc>
+   <et:prt>72</et:prt>
+  </rdf:Description>
+ </IFD0:XResolution>
+ <IFD0:YResolution>
+  <rdf:Description et:id='283' et:table='Exif::Main'>
+   <et:desc>Y Resolution</et:desc>
+   <et:prt>72</et:prt>
+  </rdf:Description>
+ </IFD0:YResolution>
+ <IFD0:ResolutionUnit>
+  <rdf:Description et:id='296' et:table='Exif::Main'>
+   <et:desc>Resolution Unit</et:desc>
+   <et:prt>inches</et:prt>
+   <et:val>2</et:val>
+  </rdf:Description>
+ </IFD0:ResolutionUnit>
+ <IFD0:ModifyDate>
+  <rdf:Description et:id='306' et:table='Exif::Main'>
+   <et:desc>Modify Date</et:desc>
+   <et:prt>2018:03:14 10:02:53</et:prt>
+  </rdf:Description>
+ </IFD0:ModifyDate>
+ <IFD0:YCbCrPositioning>
+  <rdf:Description et:id='531' et:table='Exif::Main'>
+   <et:desc>Y Cb Cr Positioning</et:desc>
+   <et:prt>Centered</et:prt>
+   <et:val>1</et:val>
+  </rdf:Description>
+ </IFD0:YCbCrPositioning>
+ <ExifIFD:ExposureTime>
+  <rdf:Description et:id='33434' et:table='Exif::Main'>
+   <et:desc>Exposure Time</et:desc>
+   <et:prt>1/25</et:prt>
+   <et:val>0.04</et:val>
+  </rdf:Description>
+ </ExifIFD:ExposureTime>
+ <ExifIFD:FNumber>
+  <rdf:Description et:id='33437' et:table='Exif::Main'>
+   <et:desc>F Number</et:desc>
+   <et:prt>2.2</et:prt>
+  </rdf:Description>
+ </ExifIFD:FNumber>
+ <ExifIFD:ExposureProgram>
+  <rdf:Description et:id='34850' et:table='Exif::Main'>
+   <et:desc>Exposure Program</et:desc>
+   <et:prt>Not Defined</et:prt>
+   <et:val>0</et:val>
+  </rdf:Description>
+ </ExifIFD:ExposureProgram>
+ <ExifIFD:ISO>
+  <rdf:Description et:id='34855' et:table='Exif::Main'>
+   <et:desc>ISO</et:desc>
+   <et:prt>250</et:prt>
+  </rdf:Description>
+ </ExifIFD:ISO>
+ <ExifIFD:ExifVersion>
+  <rdf:Description et:id='36864' et:table='Exif::Main'>
+   <et:desc>Exif Version</et:desc>
+   <et:prt>0220</et:prt>
+  </rdf:Description>
+ </ExifIFD:ExifVersion>
+ <ExifIFD:DateTimeOriginal>
+  <rdf:Description et:id='36867' et:table='Exif::Main'>
+   <et:desc>Date/Time Original</et:desc>
+   <et:prt>2018:03:14 10:02:53</et:prt>
+  </rdf:Description>
+ </ExifIFD:DateTimeOriginal>
+ <ExifIFD:CreateDate>
+  <rdf:Description et:id='36868' et:table='Exif::Main'>
+   <et:desc>Create Date</et:desc>
+   <et:prt>2018:03:14 10:02:53</et:prt>
+  </rdf:Description>
+ </ExifIFD:CreateDate>
+ <ExifIFD:ComponentsConfiguration>
+  <rdf:Description et:id='37121' et:table='Exif::Main'>
+   <et:desc>Components Configuration</et:desc>
+   <et:prt>Y, Cb, Cr, -</et:prt>
+   <et:val>1 2 3 0</et:val>
+  </rdf:Description>
+ </ExifIFD:ComponentsConfiguration>
+ <ExifIFD:ShutterSpeedValue>
+  <rdf:Description et:id='37377' et:table='Exif::Main'>
+   <et:desc>Shutter Speed Value</et:desc>
+   <et:prt>1/25</et:prt>
+   <et:val>0.0400237456665553</et:val>
+  </rdf:Description>
+ </ExifIFD:ShutterSpeedValue>
+ <ExifIFD:ApertureValue>
+  <rdf:Description et:id='37378' et:table='Exif::Main'>
+   <et:desc>Aperture Value</et:desc>
+   <et:prt>2.2</et:prt>
+   <et:val>2.1961856275741</et:val>
+  </rdf:Description>
+ </ExifIFD:ApertureValue>
+ <ExifIFD:BrightnessValue>
+  <rdf:Description et:id='37379' et:table='Exif::Main'>
+   <et:desc>Brightness Value</et:desc>
+   <et:prt>0</et:prt>
+  </rdf:Description>
+ </ExifIFD:BrightnessValue>
+ <ExifIFD:MeteringMode>
+  <rdf:Description et:id='37383' et:table='Exif::Main'>
+   <et:desc>Metering Mode</et:desc>
+   <et:prt>Center-weighted average</et:prt>
+   <et:val>2</et:val>
+  </rdf:Description>
+ </ExifIFD:MeteringMode>
+ <ExifIFD:Flash>
+  <rdf:Description et:id='37385' et:table='Exif::Main'>
+   <et:desc>Flash</et:desc>
+   <et:prt>Off, Did not fire</et:prt>
+   <et:val>16</et:val>
+  </rdf:Description>
+ </ExifIFD:Flash>
+ <ExifIFD:FocalLength>
+  <rdf:Description et:id='37386' et:table='Exif::Main'>
+   <et:desc>Focal Length</et:desc>
+   <et:prt>3.7 mm</et:prt>
+   <et:val>3.68</et:val>
+  </rdf:Description>
+ </ExifIFD:FocalLength>
+ <ExifIFD:SubSecTime>
+  <rdf:Description et:id='37520' et:table='Exif::Main'>
+   <et:desc>Sub Sec Time</et:desc>
+   <et:prt>814838</et:prt>
+  </rdf:Description>
+ </ExifIFD:SubSecTime>
+ <ExifIFD:SubSecTimeOriginal>
+  <rdf:Description et:id='37521' et:table='Exif::Main'>
+   <et:desc>Sub Sec Time Original</et:desc>
+   <et:prt>814838</et:prt>
+  </rdf:Description>
+ </ExifIFD:SubSecTimeOriginal>
+ <ExifIFD:SubSecTimeDigitized>
+  <rdf:Description et:id='37522' et:table='Exif::Main'>
+   <et:desc>Sub Sec Time Digitized</et:desc>
+   <et:prt>814838</et:prt>
+  </rdf:Description>
+ </ExifIFD:SubSecTimeDigitized>
+ <ExifIFD:FlashpixVersion>
+  <rdf:Description et:id='40960' et:table='Exif::Main'>
+   <et:desc>Flashpix Version</et:desc>
+   <et:prt>0100</et:prt>
+  </rdf:Description>
+ </ExifIFD:FlashpixVersion>
+ <ExifIFD:ColorSpace>
+  <rdf:Description et:id='40961' et:table='Exif::Main'>
+   <et:desc>Color Space</et:desc>
+   <et:prt>sRGB</et:prt>
+   <et:val>1</et:val>
+  </rdf:Description>
+ </ExifIFD:ColorSpace>
+ <ExifIFD:ExifImageWidth>
+  <rdf:Description et:id='40962' et:table='Exif::Main'>
+   <et:desc>Exif Image Width</et:desc>
+   <et:prt>2160</et:prt>
+  </rdf:Description>
+ </ExifIFD:ExifImageWidth>
+ <ExifIFD:ExifImageHeight>
+  <rdf:Description et:id='40963' et:table='Exif::Main'>
+   <et:desc>Exif Image Height</et:desc>
+   <et:prt>3840</et:prt>
+  </rdf:Description>
+ </ExifIFD:ExifImageHeight>
+ <ExifIFD:SensingMethod>
+  <rdf:Description et:id='41495' et:table='Exif::Main'>
+   <et:desc>Sensing Method</et:desc>
+   <et:prt>One-chip color area</et:prt>
+   <et:val>2</et:val>
+  </rdf:Description>
+ </ExifIFD:SensingMethod>
+ <ExifIFD:SceneType>
+  <rdf:Description et:id='41729' et:table='Exif::Main'>
+   <et:desc>Scene Type</et:desc>
+   <et:prt>Directly photographed</et:prt>
+   <et:val>1</et:val>
+  </rdf:Description>
+ </ExifIFD:SceneType>
+ <ExifIFD:ExposureMode>
+  <rdf:Description et:id='41986' et:table='Exif::Main'>
+   <et:desc>Exposure Mode</et:desc>
+   <et:prt>Auto</et:prt>
+   <et:val>0</et:val>
+  </rdf:Description>
+ </ExifIFD:ExposureMode>
+ <ExifIFD:WhiteBalance>
+  <rdf:Description et:id='41987' et:table='Exif::Main'>
+   <et:desc>White Balance</et:desc>
+   <et:prt>Auto</et:prt>
+   <et:val>0</et:val>
+  </rdf:Description>
+ </ExifIFD:WhiteBalance>
+ <ExifIFD:FocalLengthIn35mmFormat>
+  <rdf:Description et:id='41989' et:table='Exif::Main'>
+   <et:desc>Focal Length In 35mm Format</et:desc>
+   <et:prt>0 mm</et:prt>
+   <et:val>0</et:val>
+  </rdf:Description>
+ </ExifIFD:FocalLengthIn35mmFormat>
+ <ExifIFD:SceneCaptureType>
+  <rdf:Description et:id='41990' et:table='Exif::Main'>
+   <et:desc>Scene Capture Type</et:desc>
+   <et:prt>Standard</et:prt>
+   <et:val>0</et:val>
+  </rdf:Description>
+ </ExifIFD:SceneCaptureType>
+ <InteropIFD:InteropIndex>
+  <rdf:Description et:id='1' et:table='Exif::Main'>
+   <et:desc>Interoperability Index</et:desc>
+   <et:prt>R98 - DCF basic file (sRGB)</et:prt>
+   <et:val>R98</et:val>
+  </rdf:Description>
+ </InteropIFD:InteropIndex>
+ <InteropIFD:InteropVersion>
+  <rdf:Description et:id='2' et:table='Exif::Main'>
+   <et:desc>Interoperability Version</et:desc>
+   <et:prt>0100</et:prt>
+  </rdf:Description>
+ </InteropIFD:InteropVersion>
+ <GPS:GPSAltitudeRef>
+  <rdf:Description et:id='5' et:table='GPS::Main'>
+   <et:desc>GPS Altitude Ref</et:desc>
+   <et:prt>Unknown (2.2)</et:prt>
+   <et:val>2.2</et:val>
+  </rdf:Description>
+ </GPS:GPSAltitudeRef>
+ <GPS:GPSLatitudeRef>
+  <rdf:Description et:id='1' et:table='GPS::Main'>
+   <et:desc>GPS Latitude Ref</et:desc>
+   <et:prt>South</et:prt>
+   <et:val>S</et:val>
+  </rdf:Description>
+ </GPS:GPSLatitudeRef>
+ <GPS:GPSLatitude>
+  <rdf:Description et:id='2' et:table='GPS::Main'>
+   <et:desc>GPS Latitude</et:desc>
+   <et:prt>7 deg 45' 36.92"</et:prt>
+   <et:val>7.76025497222222</et:val>
+  </rdf:Description>
+ </GPS:GPSLatitude>
+ <GPS:GPSLongitudeRef>
+  <rdf:Description et:id='3' et:table='GPS::Main'>
+   <et:desc>GPS Longitude Ref</et:desc>
+   <et:prt>East</et:prt>
+   <et:val>E</et:val>
+  </rdf:Description>
+ </GPS:GPSLongitudeRef>
+ <GPS:GPSLongitude>
+  <rdf:Description et:id='4' et:table='GPS::Main'>
+   <et:desc>GPS Longitude</et:desc>
+   <et:prt>110 deg 24' 36.04"</et:prt>
+   <et:val>110.410009777778</et:val>
+  </rdf:Description>
+ </GPS:GPSLongitude>
+ <GPS:GPSAltitudeRef>
+  <rdf:Description et:id='5' et:table='GPS::Main'>
+   <et:desc>GPS Altitude Ref</et:desc>
+   <et:prt>Above Sea Level</et:prt>
+   <et:val>0</et:val>
+  </rdf:Description>
+ </GPS:GPSAltitudeRef>
+ <GPS:GPSAltitude>
+  <rdf:Description et:id='6' et:table='GPS::Main'>
+   <et:desc>GPS Altitude</et:desc>
+   <et:prt>0 m</et:prt>
+   <et:val>0</et:val>
+  </rdf:Description>
+ </GPS:GPSAltitude>
+ <GPS:GPSTimeStamp>
+  <rdf:Description et:id='7' et:table='GPS::Main'>
+   <et:desc>GPS Time Stamp</et:desc>
+   <et:prt>03:02:45</et:prt>
+  </rdf:Description>
+ </GPS:GPSTimeStamp>
+ <GPS:GPSProcessingMethod>
+  <rdf:Description et:id='27' et:table='GPS::Main'>
+   <et:desc>GPS Processing Method</et:desc>
+   <et:prt>ASCII</et:prt>
+  </rdf:Description>
+ </GPS:GPSProcessingMethod>
+ <GPS:GPSDateStamp>
+  <rdf:Description et:id='29' et:table='GPS::Main'>
+   <et:desc>GPS Date Stamp</et:desc>
+   <et:prt>2018:03:14</et:prt>
+  </rdf:Description>
+ </GPS:GPSDateStamp>
+ <IFD1:Compression>
+  <rdf:Description et:id='259' et:table='Exif::Main'>
+   <et:desc>Compression</et:desc>
+   <et:prt>JPEG (old-style)</et:prt>
+   <et:val>6</et:val>
+  </rdf:Description>
+ </IFD1:Compression>
+ <IFD1:XResolution>
+  <rdf:Description et:id='282' et:table='Exif::Main'>
+   <et:desc>X Resolution</et:desc>
+   <et:prt>72</et:prt>
+  </rdf:Description>
+ </IFD1:XResolution>
+ <IFD1:YResolution>
+  <rdf:Description et:id='283' et:table='Exif::Main'>
+   <et:desc>Y Resolution</et:desc>
+   <et:prt>72</et:prt>
+  </rdf:Description>
+ </IFD1:YResolution>
+ <IFD1:ResolutionUnit>
+  <rdf:Description et:id='296' et:table='Exif::Main'>
+   <et:desc>Resolution Unit</et:desc>
+   <et:prt>inches</et:prt>
+   <et:val>2</et:val>
+  </rdf:Description>
+ </IFD1:ResolutionUnit>
+ <IFD1:ThumbnailOffset>
+  <rdf:Description et:id='513' et:table='Exif::Main' et:index='0'>
+   <et:desc>Thumbnail Offset</et:desc>
+   <et:prt>1006</et:prt>
+  </rdf:Description>
+ </IFD1:ThumbnailOffset>
+ <IFD1:ThumbnailLength>
+  <rdf:Description et:id='514' et:table='Exif::Main' et:index='0'>
+   <et:desc>Thumbnail Length</et:desc>
+   <et:prt>6578</et:prt>
+  </rdf:Description>
+ </IFD1:ThumbnailLength>
+ <IFD1:ThumbnailImage>
+  <rdf:Description et:id='ThumbnailImage' et:table='Composite'>
+   <et:desc>Thumbnail Image</et:desc>
+   <et:prt>(Binary data 6578 bytes, use -b option to extract)</et:prt>
+  </rdf:Description>
+ </IFD1:ThumbnailImage>
+ <Composite:Aperture>
+  <rdf:Description et:id='Aperture' et:table='Composite'>
+   <et:desc>Aperture</et:desc>
+   <et:prt>2.2</et:prt>
+  </rdf:Description>
+ </Composite:Aperture>
+ <Composite:GPSAltitude>
+  <rdf:Description et:id='GPSAltitude' et:table='Composite'>
+   <et:desc>GPS Altitude</et:desc>
+   <et:prt>0 m Above Sea Level</et:prt>
+   <et:val>0</et:val>
+  </rdf:Description>
+ </Composite:GPSAltitude>
+ <Composite:GPSDateTime>
+  <rdf:Description et:id='GPSDateTime' et:table='Composite'>
+   <et:desc>GPS Date/Time</et:desc>
+   <et:prt>2018:03:14 03:02:45Z</et:prt>
+  </rdf:Description>
+ </Composite:GPSDateTime>
+ <Composite:GPSLatitude>
+  <rdf:Description et:id='GPSLatitude' et:table='Composite'>
+   <et:desc>GPS Latitude</et:desc>
+   <et:prt>7 deg 45' 36.92" S</et:prt>
+   <et:val>-7.76025497222222</et:val>
+  </rdf:Description>
+ </Composite:GPSLatitude>
+ <Composite:GPSLongitude>
+  <rdf:Description et:id='GPSLongitude' et:table='Composite'>
+   <et:desc>GPS Longitude</et:desc>
+   <et:prt>110 deg 24' 36.04" E</et:prt>
+   <et:val>110.410009777778</et:val>
+  </rdf:Description>
+ </Composite:GPSLongitude>
+ <Composite:GPSPosition>
+  <rdf:Description et:id='GPSPosition' et:table='Composite'>
+   <et:desc>GPS Position</et:desc>
+   <et:prt>7 deg 45' 36.92" S, 110 deg 24' 36.04" E</et:prt>
+   <et:val>-7.76025497222222 110.410009777778</et:val>
+  </rdf:Description>
+ </Composite:GPSPosition>
+ <Composite:ImageSize>
+  <rdf:Description et:id='ImageSize' et:table='Composite'>
+   <et:desc>Image Size</et:desc>
+   <et:prt>2160x3840</et:prt>
+  </rdf:Description>
+ </Composite:ImageSize>
+ <Composite:Megapixels>
+  <rdf:Description et:id='Megapixels' et:table='Composite'>
+   <et:desc>Megapixels</et:desc>
+   <et:prt>8.3</et:prt>
+   <et:val>8.2944</et:val>
+  </rdf:Description>
+ </Composite:Megapixels>
+ <Composite:ShutterSpeed>
+  <rdf:Description et:id='ShutterSpeed' et:table='Composite'>
+   <et:desc>Shutter Speed</et:desc>
+   <et:prt>1/25</et:prt>
+   <et:val>0.04</et:val>
+  </rdf:Description>
+ </Composite:ShutterSpeed>
+ <Composite:SubSecCreateDate>
+  <rdf:Description et:id='SubSecCreateDate' et:table='Composite'>
+   <et:desc>Create Date</et:desc>
+   <et:prt>2018:03:14 10:02:53.814838</et:prt>
+  </rdf:Description>
+ </Composite:SubSecCreateDate>
+ <Composite:SubSecDateTimeOriginal>
+  <rdf:Description et:id='SubSecDateTimeOriginal' et:table='Composite'>
+   <et:desc>Date/Time Original</et:desc>
+   <et:prt>2018:03:14 10:02:53.814838</et:prt>
+  </rdf:Description>
+ </Composite:SubSecDateTimeOriginal>
+ <Composite:SubSecModifyDate>
+  <rdf:Description et:id='SubSecModifyDate' et:table='Composite'>
+   <et:desc>Modify Date</et:desc>
+   <et:prt>2018:03:14 10:02:53.814838</et:prt>
+  </rdf:Description>
+ </Composite:SubSecModifyDate>
+ <Composite:FocalLength35efl>
+  <rdf:Description et:id='FocalLength35efl' et:table='Composite'>
+   <et:desc>Focal Length</et:desc>
+   <et:prt>3.7 mm</et:prt>
+   <et:val>3.68</et:val>
+  </rdf:Description>
+ </Composite:FocalLength35efl>
+ <Composite:LightValue>
+  <rdf:Description et:id='LightValue' et:table='Composite'>
+   <et:desc>Light Value</et:desc>
+   <et:prt>5.6</et:prt>
+   <et:val>5.59693514238723</et:val>
+  </rdf:Description>
+ </Composite:LightValue>
+</rdf:Description>
+</rdf:RDF>
+
